@@ -1,0 +1,647 @@
+---
+title: "Climate Change & Occupational Safety and Health Interventions"
+output: html_notebook
+---
+
+
+# Climate Change and Occupational Health
+
+### Final Exam Revision Notes (LMU MSc Level)
+
+------------------------------------------------------------------------
+
+# 1. Climate Change Trends
+
+## Global and German Warming
+
+Germany is warming **faster than the global average**.
+
+| Region  | Temperature increase |
+|:--------|:---------------------|
+| World   | +1.1°C               |
+| Germany | +1.6°C               |
+
+Example: Bavaria (1951--2019)
+
+-   Mean temperature: **+1.9°C**
+-   Hot days (\>30°C): **+9 days/year**
+-   Cold days (\<0°C): **--15 days/year**
+-   Heavy rainfall intensity: **+30%**
+-   Summer precipitation: **--13%**
+
+### Key Implication
+
+Climate change leads to:
+
+-   more **heat waves**
+-   more **extreme weather**
+-   changes in **environmental exposure**
+
+------------------------------------------------------------------------
+
+# 2. Climate Change and Workplace Hazards
+
+Climate change affects workers through **multiple environmental pathways**.
+
+## Major Occupational Hazards
+
+### 1. Extreme Weather Events
+
+Examples:
+
+-   heavy rain
+-   floods
+-   hail
+-   thunderstorms
+
+Impacts:
+
+-   disruption of work processes
+-   increased accident risk
+-   transportation hazards
+
+Health outcomes:
+
+-   injuries
+-   workplace accidents
+-   respiratory problems (e.g., **thunderstorm asthma**)
+
+High-risk groups:
+
+-   outdoor workers
+-   commuters
+
+------------------------------------------------------------------------
+
+### 2. Heat Stress
+
+Heat stress occurs when:
+
+High temperature + physical activity → heat stress
+
+Workplace factors increasing heat stress:
+
+-   heat-emitting machinery
+-   high humidity
+-   direct sun exposure
+-   protective clothing (PPE)
+-   heavy physical labour
+
+### Health Effects of Heat
+
+Physiological effects:
+
+-   dehydration
+-   heat exhaustion
+-   heat collapse
+-   heat stroke
+-   kidney damage
+
+Cognitive effects:
+
+-   reduced concentration
+-   fatigue
+
+Occupational effects:
+
+-   productivity loss
+-   increased accident risk
+
+------------------------------------------------------------------------
+
+### Economic Impact
+
+Heat exposure leads to:
+
+-   **loss of labour capacity**
+-   **reduced productivity**
+-   **economic burden**
+
+------------------------------------------------------------------------
+
+### 3. UV Radiation
+
+Relevant types:
+
+-   UV-A
+-   UV-B
+
+Health impacts:
+
+-   sunburn
+-   skin cancer
+-   eye damage
+-   cataracts
+
+High-risk groups:
+
+-   construction workers
+-   farmers
+-   outdoor service workers
+
+------------------------------------------------------------------------
+
+### 4. Pollen Exposure
+
+Climate change causes:
+
+-   longer pollen seasons
+-   increased pollen production
+-   more allergenic pollen
+
+Example:
+
+**Ragweed (Ambrosia artemisiifolia)**
+
+Health impacts:
+
+-   allergic rhinitis
+-   asthma
+-   respiratory diseases
+
+------------------------------------------------------------------------
+
+### 5. Vector-borne Diseases
+
+Climate change expands vector habitats.
+
+Vectors:
+
+-   mosquitoes
+-   ticks
+-   rodents
+
+Example:
+
+**Aedes albopictus (Asian tiger mosquito)**
+
+Potential diseases:
+
+-   dengue fever
+-   West Nile virus
+-   malaria
+
+High-risk groups:
+
+-   border workers
+-   airport staff
+-   outdoor workers
+
+------------------------------------------------------------------------
+
+# 3. Empirical Studies on Occupational Heat Exposure
+
+Three major studies were presented.
+
+------------------------------------------------------------------------
+
+# KaHoba Study (Construction Workers)
+
+## Objective
+
+Assess climate change risks in the **timber construction industry**.
+
+## Study Design
+
+Mixed-method study:
+
+-   quantitative survey
+-   participatory observations
+
+Sample size:
+
+n = 71 construction workers
+
+## Key Findings
+
+Climate change impacts on work:
+
+-   78.8% reported climate change already affecting the company
+-   43.6% reported large impacts on personal work
+-   25.3% experienced interruptions due to extreme weather
+
+## Health Findings
+
+Outdoor workers experienced:
+
+-   greater heat exposure
+-   higher physical strain
+
+22.5% reported **heat-related health damage**.
+
+## Observational Findings
+
+Summer conditions:
+
+-   heavy sweating
+-   fatigue
+-   removal of PPE due to heat
+-   sunburn risk
+
+## Conclusion
+
+Major risks:
+
+-   **heat**
+-   **UV radiation**
+
+Needed measures:
+
+-   improved protection
+-   adjusted work processes
+-   better hydration
+-   shaded break areas
+
+------------------------------------------------------------------------
+
+# CAREHeat Study (Healthcare Workers)
+
+## Research Question
+
+How do **heat and PPE** affect healthcare workers?
+
+Healthcare workers face **two sources of heat stress**:
+
+1.  external heat
+2.  internal heat from PPE
+
+## Study Design
+
+Randomized cross-over experiment.
+
+Climate chamber conditions:
+
+| Temperature | PPE    |
+|:------------|:-------|
+| 22°C        | no PPE |
+| 22°C        | PPE    |
+| 27°C        | no PPE |
+| 27°C        | PPE    |
+
+Humidity:
+
+40%
+
+## Measurement Tools
+
+Physiological monitoring:
+
+-   QUESTemp heat stress monitor
+-   Cosinuss wearable sensor
+-   iButton skin thermometer
+
+Questionnaires:
+
+-   VAS (Visual Analogue Scale)
+-   NASA-TLX workload scale
+
+Cognitive test:
+
+-   d2 concentration test
+
+## Key Results
+
+Highest stress observed in:
+
+27°C + PPE
+
+Effects:
+
+-   increased body temperature
+-   higher perceived stress
+-   increased sweating
+-   reduced well-being
+
+## Conclusion
+
+Combined heat exposure leads to:
+
+-   reduced health
+-   decreased productivity
+
+Mitigation strategies:
+
+-   cooling systems
+-   cooling PPE
+-   rest breaks
+
+------------------------------------------------------------------------
+
+# LeiKs Study (Office Workers)
+
+## Research Question
+
+How does heat affect **office worker productivity**?
+
+Office workers may appear less exposed but still experience **indoor heat stress**.
+
+## Study Design
+
+Observational study.
+
+Methods:
+
+-   interviews
+-   online surveys during heatwaves
+-   temperature measurements
+-   body temperature monitoring
+
+Sample:
+
+n = 210 office workers
+
+Location:
+
+Bavaria (mainly Munich).
+
+## Key Findings
+
+Heat increases:
+
+-   physical stress
+-   mental stress
+
+Stress peaks around **Day 3 of a heatwave**.
+
+## Productivity
+
+88.6% of participants with low productivity reported that temperature was the main cause.
+
+## Health Symptoms
+
+Reported symptoms:
+
+-   heavy sweating
+-   tiredness
+-   exhaustion
+-   headache
+-   swollen legs
+
+## Adaptation Measures
+
+Workers reported helpful measures:
+
+-   moving to cooler rooms
+-   flexible working hours
+-   changing clothing
+-   improved ventilation
+
+More control over the environment → higher satisfaction.
+
+------------------------------------------------------------------------
+
+# 4. Heat Protection Interventions
+
+Example:
+
+Cooling vest intervention study.
+
+Conditions tested:
+
+| Temperature | Intervention |
+|:------------|:-------------|
+| 22°C        | no cooling   |
+| 31°C        | cooling vest |
+
+Goal:
+
+Evaluate whether cooling vests reduce heat stress among caregivers.
+
+------------------------------------------------------------------------
+
+# 5. Occupational Health Policies (Germany)
+
+## Workplace Temperature Regulation
+
+German regulation:
+
+Arbeitsstättenverordnung (ASR 3.5)
+
+Regulates workplace climate and heat protection.
+
+## TOP Principle
+
+Key occupational safety strategy.
+
+T -- Technical measures\
+O -- Organisational measures\
+P -- Personal measures
+
+### Technical Measures
+
+-   air conditioning
+-   ventilation systems
+-   shading
+
+### Organisational Measures
+
+-   flexible working hours
+-   rest breaks
+-   heatwave planning
+
+### Personal Measures
+
+-   hydration
+-   appropriate clothing
+-   PPE
+
+## UV Protection Regulation
+
+EU Directive:
+
+89/391/EEC
+
+Applies to workers exposed outdoors:
+
+-   1 hour/day
+
+-   50 days/year
+
+-   April--September
+
+## PPE Regulations
+
+EU Regulation: 425/2016\
+EU Directive: 89/656/EEC
+
+Regulates:
+
+-   PPE production
+-   PPE usage and maintenance
+
+------------------------------------------------------------------------
+
+# 6. Key Take-Home Messages
+
+1.  Climate change affects **all occupational sectors**.
+
+2.  Major workplace hazards include:
+
+-   heat stress
+-   extreme weather
+-   UV radiation
+-   pollen exposure
+-   vector-borne diseases
+
+3.  In Germany the most important risks are:
+
+heat exposure\
+UV radiation
+
+4.  Occupational risk increases with:
+
+-   heavy physical work
+-   protective clothing
+-   outdoor work environments
+
+5.  Heat reduces:
+
+-   productivity
+-   worker well-being
+-   labour capacity
+
+6.  Effective prevention requires:
+
+-   workplace adaptation
+-   policy implementation
+-   occupational health monitoring
+
+7.  Climate impacts on the workforce will **intensify in the future**.
+
+----------------------------------------------------------------
+
+# Occupational Safety and Health Interventions
+
+## Definition
+
+An occupational safety and health (OSH) intervention is an action or measure designed to prevent, reduce, or control workplace hazards and improve employee health and safety.
+
+---
+
+## Threats to Occupational Safety and Health
+
+Common workplace hazards include:
+
+- Physical hazards (noise, machinery)
+- Chemical hazards (solvents, disinfectants)
+- Biological hazards (viruses, bacteria)
+- Ergonomic hazards (poor posture)
+- Psychosocial hazards (stress, workplace violence)
+
+---
+
+## Prevention Model (Leavell & Clark)
+
+### Primary Prevention
+Prevent disease before it occurs.
+
+Examples:
+- vaccination
+- protective equipment
+
+### Secondary Prevention
+Early detection and intervention.
+
+Examples:
+- screening programs
+
+### Tertiary Prevention
+Reduce complications of existing disease.
+
+Examples:
+- rehabilitation
+
+---
+
+## Main Aims of OSH Interventions
+
+- Prevent work-related accidents
+- Prevent occupational diseases
+- Reduce psychological stress
+- Promote healthy behaviour
+- Support workers with chronic illnesses
+
+---
+
+## Types of OSH Interventions
+
+### Environmental Interventions
+Modify the workplace environment.
+
+Examples:
+- ergonomic design
+- chemical substitution
+- legislation
+- organizational changes
+
+### Behavioral Interventions
+Change worker behaviour.
+
+Examples:
+- training
+- education
+- health promotion
+
+### Clinical Interventions
+Medical measures.
+
+Examples:
+- vaccination
+- medical treatment
+- health screening
+
+---
+
+## Example Intervention Study
+
+### Study Design
+
+Randomized controlled trial among farming workers in Germany.
+
+- Cluster randomization
+- Baseline questionnaire
+- Follow-up after 6 months
+
+### Intervention
+
+Educational training using the "learning with errors" approach.
+
+Steps:
+
+1. Show incorrect behaviour
+2. Group discussion
+3. Show correct behaviour
+
+### Outcome
+
+Knowledge about preventive measures against occupational asthma.
+
+---
+
+## Statistical Analysis
+
+Targeted Maximum Likelihood Estimation (TMLE)
+
+ATE formula:
+
+ATE = E[E(Y|A=1,W) - E(Y|A=0,W)]
+
+Where:
+
+- Y = outcome
+- A = intervention
+- W = covariates
+
+---
+
+## Key Findings
+
+The intervention improved preventive knowledge by approximately 18%.
+
+---
+
+## Limitations
+
+- Small sample size
+- High drop-out rate
+- Behavioural change not directly measured

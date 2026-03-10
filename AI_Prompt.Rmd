@@ -1,0 +1,64 @@
+---
+title: "AI Prompt"
+output: html_notebook
+---
+
+# AI Prompt
+
+This lesson focuses on creating effective prompts for generative AI tools using a simple framework.
+
+### **The T.C.R.E.I. Framework**
+
+**Task:** Clearly describe the task for the AI, including a persona (the expertise you want the AI to draw from) and a format preference (e.g., bulleted list, short sentences).
+
+**Context:** Provide necessary details to help the AI understand your needs, making your request specific and comprehensive.
+
+### **Enhancing and Refining Prompts**
+
+**References:** Include examples or past outputs to guide the AI in generating more useful and relevant results.
+
+**Evaluate and Iterate:** After receiving an output, assess if it meets your needs and refine your prompt by adding more information or tweaking it if necessary.
+
+### As a quick reminder when crafting your prompts:
+
+• Thoughtfully: Describe your task, specifying a persona and format preference.
+
+• Create: Include any context the gen AI tool might need to give you what you want.
+
+• Really: Add references the gen AI tool can use to inform its output.
+
+• Excellent: Next, evaluate the output to identify opportunities for improvement.
+
+• Inputs: Then, iterate on your initial prompt to attain those improvements.
+
+### Evaluate the output
+
+Review the output from your initial prompt and evaluate what information you may still need for planning your vacation. Some parts of your input may be leading the gen AI tool down the wrong path, and by evaluating the output you can find where the issues are. For example, is the plan easy to follow? Is the plan organized into steps with clear actions for you to take? Does the plan include steps such as:
+
+• Deciding on travel dates
+
+• Booking accommodation?
+
+• Choosing how to get to your destination?
+
+• Considering traveler preferences, including dietary and budgetary constraints?
+
+• Making time for activities while on the trip?
+
+### Take an iterate approach
+
+Revise and refine your prompt to improve or get more information about the vacation planning steps. This is your big trip, so you want to make sure you’re getting exactly what you want. For example, you could:
+
+Revise the task in your prompt to be more specific.
+
+Add three to four sentences of additional context to help the gen AI tool create a more detailed plan.
+
+Add references to your prompt to help the AI better understand your needs.
+
+Prompt the tool to expand on one of the steps in the plan.
+
+Ask the tool, “Do you have questions for me?” for further discussion.
+
+Ask the tool to suggest a format, like a spreadsheet, to help you stay organized as you move through the steps.
+
+When you’re ready, enter your revised prompt. Then, continue iterating until you feel confident that the output sufficiently helps you plan. Remember, the more specific and detailed your prompt, the better the output will be. Don’t hesitate to ask for clarification or additional information from the AI tool as you refine your prompt. By following this process, you can effectively use generative AI tools to assist you in planning your vacation and ensure that you have a well-organized and enjoyable trip.
